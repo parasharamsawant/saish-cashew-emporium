@@ -52,6 +52,10 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Cashew-specific colors
+				'cashew-gold': 'hsl(var(--cashew-gold))',
+				'cashew-cream': 'hsl(var(--cashew-cream))',
+				'cashew-brown': 'hsl(var(--cashew-brown))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
